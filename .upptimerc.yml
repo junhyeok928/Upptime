@@ -5,6 +5,8 @@ repo: Upptime # The name of this repository
 sites:
   - name: Wbridge
     url: https://www.wbridge.or.kr/
+  - name: Wbridge_dev
+    url: http://221.150.126.76:9191/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
