@@ -7,6 +7,8 @@ sites:
     url: https://www.wbridge.or.kr/
   - name: Wbridge_dev
     url: http://221.150.126.76:9191/
+  - name: Wbridge_notice
+    url: https://www.wbridge.or.kr/platform/gnrl/intrcn/viewWbridgeIntrcn.do
   - name: Naver
     url: https://www.naver.com/
 
