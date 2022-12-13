@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8137,
-    "timeDay": 8137,
-    "timeWeek": 8137,
-    "timeMonth": 8137,
-    "timeYear": 8137,
+    "time": 7603,
+    "timeDay": 7603,
+    "timeWeek": 7603,
+    "timeMonth": 7603,
+    "timeYear": 7603,
     "dailyMinutesDown": {}
   },
   {
@@ -33,6 +33,24 @@
     "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 995,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Naver",
+    "url": "https://www.naver.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.naver.com.ico",
+    "slug": "naver",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   }
 ]
