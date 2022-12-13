@@ -7,6 +7,8 @@ sites:
     url: https://www.wbridge.or.kr/
   - name: Wbridge_dev
     url: http://221.150.126.76:9191/
+  - name: Naver
+    url: https://www.naver.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
