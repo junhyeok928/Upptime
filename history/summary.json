@@ -4,18 +4,20 @@
     "url": "https://www.wbridge.or.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wbridge.or.kr.ico",
     "slug": "wbridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7041,
-    "timeDay": 3307,
-    "timeWeek": 6807,
-    "timeMonth": 7041,
-    "timeYear": 7041,
-    "dailyMinutesDown": {}
+    "time": 6775,
+    "timeDay": 2916,
+    "timeWeek": 6272,
+    "timeMonth": 6775,
+    "timeYear": 6775,
+    "dailyMinutesDown": {
+      "2022-12-23": 0
+    }
   },
   {
     "name": "Wbridge_notice",
